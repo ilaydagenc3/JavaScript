@@ -93,5 +93,5 @@
 // const todoList = document.querySelectorAll(".list-group-item");
 // console.log(todoList);
 
-const todoList = document.querySelectorAll("li:nth-child(odd");
-console.log(todoList);
+// const todoList = document.querySelectorAll("li:nth-child(odd"); // odd ve even
+// console.log(todoList);
